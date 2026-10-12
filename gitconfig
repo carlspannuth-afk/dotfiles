@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = carl.spannuth@gmail.com
+	name = Carl Spannuth
